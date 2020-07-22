@@ -1,0 +1,17 @@
+/*font-family: 'Crimson Text', serif;*/
+
+
+body{font-family:'Crimson Text', serif}
+
+.box{min-height: 100px;
+background-color: red;
+border-radius: 10px;}
+
+h1, h2{
+	font-size: 50px;
+	text-align: center;}
+
+h2{color:red;}
+p{text-align: center;}
+
+.Q{color:green;}
